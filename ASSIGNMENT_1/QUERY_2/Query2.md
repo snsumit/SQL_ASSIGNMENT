@@ -3,13 +3,10 @@
 ## Business Problem
 The merchandising team often needs a list of all active physical products to manage logistics, warehousing, and shipping efficiently.
 
-## Query Objective
-Retrieve details of all active physical products.
-
 ## Fields to Retrieve
-- `PRODUCT_ID` - Unique identifier for the product
-- `PRODUCT_TYPE_ID` - Type of product
-- `INTERNAL_NAME` - Internal name of the product
+- `PRODUCT_ID` 
+- `PRODUCT_TYPE_ID` 
+- `INTERNAL_NAME` 
 
 ## Query Solution
 ```sql

@@ -3,16 +3,13 @@
 ## Business Problem
 The marketing team ran a campaign in June 2023 and wants to analyze how many new customers signed up during that period. This data will help assess the effectiveness of the campaign and guide future marketing strategies.
 
-## Query Objective
-Retrieve details of new customers who signed up in June 2023.
-
 ## Fields to Retrieve
-- `PARTY_ID` - Unique identifier for the customer
-- `FIRST_NAME` - First name of the customer
-- `LAST_NAME` - Last name of the customer
-- `EMAIL` - Email address of the customer
-- `PHONE` - Contact number of the customer
-- `CREATED_STAMP` - Date and time when the customer signed up
+- `PARTY_ID` 
+- `FIRST_NAME` 
+- `LAST_NAME` 
+- `EMAIL` 
+- `PHONE` 
+- `CREATED_STAMP` - 
 
 ## Query Solution
 ```sql
