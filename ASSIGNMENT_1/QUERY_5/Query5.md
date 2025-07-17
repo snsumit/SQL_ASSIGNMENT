@@ -51,4 +51,4 @@ GROUP BY
     oi.ORDER_ITEM_SEQ_ID,
     ohi.SHIP_GROUP_SEQ_ID;```
 ```
-## Query Cost Analysis (184840.88)
+## Query Cost Analysis (243105.88)
